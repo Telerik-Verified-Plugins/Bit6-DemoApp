@@ -18,9 +18,7 @@ Demo for [Bit6 Cordova Plugin](https://github.com/Telerik-Verified-Plugins/Bit6)
   {'apikey': 'yourApiKey'}
   ```
 
-3. Enable PushPlugin: `Project Navigator > Properties > Plugins`. Scroll to `Other Plugins`, check `PushPlugin`.
-
-4. [Configure](https://github.com/bit6/bit6-cordova#push-notifications) push notification support.
+3. [Configure](https://github.com/bit6/bit6-cordova#push-notifications) push notification support.
 
 ### Running the app
 Build and deploy to an iOS or Android device.
